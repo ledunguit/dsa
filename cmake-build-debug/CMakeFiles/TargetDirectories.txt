@@ -1,0 +1,6 @@
+/Users/zed/Documents/MasterEDU/MatMaVaUngDung/Labs/digital-signature/cmake-build-debug/CMakeFiles/DSA.dir
+/Users/zed/Documents/MasterEDU/MatMaVaUngDung/Labs/digital-signature/cmake-build-debug/CMakeFiles/SIGN.dir
+/Users/zed/Documents/MasterEDU/MatMaVaUngDung/Labs/digital-signature/cmake-build-debug/CMakeFiles/VERIFY.dir
+/Users/zed/Documents/MasterEDU/MatMaVaUngDung/Labs/digital-signature/cmake-build-debug/CMakeFiles/DSADLL.dir
+/Users/zed/Documents/MasterEDU/MatMaVaUngDung/Labs/digital-signature/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/zed/Documents/MasterEDU/MatMaVaUngDung/Labs/digital-signature/cmake-build-debug/CMakeFiles/rebuild_cache.dir

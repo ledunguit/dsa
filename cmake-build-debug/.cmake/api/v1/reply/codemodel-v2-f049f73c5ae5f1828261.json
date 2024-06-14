@@ -1,0 +1,87 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "DigitalSignature",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "DSA::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DSA-Debug-08ca7727c52c5291c5df.json",
+					"name" : "DSA",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DSADLL::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DSADLL-Debug-5556e6c3984d68fa45c6.json",
+					"name" : "DSADLL",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SIGN::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SIGN-Debug-d1a62827f1453dcde9ec.json",
+					"name" : "SIGN",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "VERIFY::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-VERIFY-Debug-13867b0b6e62ec01a979.json",
+					"name" : "VERIFY",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/zed/Documents/MasterEDU/MatMaVaUngDung/Labs/digital-signature/cmake-build-debug",
+		"source" : "/Users/zed/Documents/MasterEDU/MatMaVaUngDung/Labs/digital-signature"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
